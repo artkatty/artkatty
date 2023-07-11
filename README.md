@@ -5,10 +5,7 @@
 Опыт тестирования в реальном проекте.
 
 ---------------
-
-*   🌍  Россия, Самара
-*   ✉️  [E.Fligina@gmail.com](mailto:E.Fligina@gmail.com)
-    
+  
 ### Навыки:
 
 <p align="left">
