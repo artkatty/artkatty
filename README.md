@@ -1,4 +1,5 @@
-![1](https://github.com/artkatty/artkatty/assets/130747406/64b9e5d1-3d9e-47f3-9b1f-69306452836b)
+![1](https://github.com/artkatty/artkatty/assets/130747406/961a8cf7-1fee-4182-ae18-2f62a7654350)
+
 
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Привет! 
 Меня зовут Екатерина. Я тестировщик ПО.
