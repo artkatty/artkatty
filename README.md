@@ -12,8 +12,7 @@
 
 ![1](https://img.shields.io/badge/E.Fligina@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ---------------
-  
-### Навыки:
+### Некоторые инструменты, которые я использую:
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg"  titl="js" width="36" height="36" />&nbsp;
