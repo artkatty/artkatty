@@ -8,7 +8,9 @@
 Активно накапливаю знания в области тестирования. 
 Опыт тестирования в реальном проекте.
 
-![1](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white).E.Fligina@gmail.com
+Для связи:
+
+![1](https://img.shields.io/badge/E.Fligina@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ---------------
   
 ### Навыки:
